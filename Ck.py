@@ -1,2 +1,2 @@
 import pyximport
-pyximport.install()
+pyximport.mahadi()
